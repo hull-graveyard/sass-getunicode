@@ -36,7 +36,7 @@ Add the following to your compass configuration:
 
 ## Credit
 
-* Thanks to [Thibault](http://http://sweetdub.com/) for his help :-)
+* Thanks to [Thibault](http://sweetdub.com/) for his help :-)
 
 ## Copyright
 Copyright (c) 2013 Victor Coulon - Hull. Licence MIT
