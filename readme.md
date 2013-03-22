@@ -1,6 +1,6 @@
 # Sass Get Unicode Plugin
 
-This plugin allow you to get a character CSS unicode to use it in some generated content (i.e. ::before and ::after).
+This plugin allow you to use easily a special character in a pseudo element (i.e. ::before and ::after).
 
 #### Example:
 
@@ -36,7 +36,7 @@ Add the following to your compass configuration:
 
 ## Credit
 
-* Thanks to [Thibault](http://http://sweetdub.com/)
+* Thanks to [Thibault](http://http://sweetdub.com/) for his help :-)
 
 ## Copyright
 Copyright (c) 2013 Victor Coulon - Hull. Licence MIT
