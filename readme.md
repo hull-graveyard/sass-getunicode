@@ -32,7 +32,7 @@ Et voilà !
 
 Add the following to your compass configuration:
 
-  require 'sass-getunicode'
+    require 'sass-getunicode'
 
 ## Credit
 
